@@ -14,11 +14,11 @@ This repository contains project work for Udacity's [Front-End Web Developer Nan
 - **p6** - Feed Reader Testing
 
 ### Curriculum:
-Part 1: Web Foundations
-Part 2: Responsive Websites
-Part 3: Javascript Foundations
-Part 4: Intermediate Javascript
-Part 5: Advanced Interactive Websites
+- Part 1: Web Foundations
+- Part 2: Responsive Websites
+- Part 3: Javascript Foundations
+- Part 4: Intermediate Javascript
+- Part 5: Advanced Interactive Websites
 
 ### Class
 - Intro to HTML and CSS
