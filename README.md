@@ -20,7 +20,7 @@ This repository contains project work for Udacity's [Front-End Web Developer Nan
 - Part 4: Intermediate Javascript
 - Part 5: Advanced Interactive Websites
 
-### Class
+### Courses
 - Intro to HTML and CSS
 - Responsive Webd Design Fundamentals
 - Responsive Images
