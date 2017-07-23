@@ -1,6 +1,6 @@
 # Front-End Web Developer Nanodegree
 
-![Certificate](certificate.png)
+![Certificate](certificate.jpg)
 
 ### About
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
