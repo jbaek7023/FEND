@@ -6,12 +6,12 @@
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
 
 ### Projects:
-- **p1** - Mockup to Website
-- **p2** - Interactive Resume
-- **p3** - Classic Arcade Game Clone
-- **p4** - Website Optimization
-- **p5** - Neighborhood Map Project
-- **p6** - Feed Reader Testing
+- **p1** - [Mockup to Website](https://github.com/jbaek7023/MyFirstWebpage)
+- **p2** - [Interactive Resume](https://github.com/jbaek7023/Online-Resume)
+- **p3** - [Classic Arcade Game Clone](https://github.com/jbaek7023/ArcadeGame)
+- **p4** - [Website Optimization](https://github.com/jbaek7023/web-optimization)
+- **p5** - [Neighborhood Map Project](https://github.com/jbaek7023/FindNeighborhood)
+- **p6** - [Feed Reader Testing](https://github.com/jbaek7023/JSTesting)
 
 ### Curriculum:
 - Part 1: Web Foundations
