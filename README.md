@@ -2,8 +2,6 @@
 
 ![Certificate](certificate.jpg)
 
-### Co-Created By:
-
 ### About
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
 
