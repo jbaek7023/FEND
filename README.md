@@ -6,7 +6,7 @@
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
 
 ### Projects:
-- **p1** - [Mockup to Website](https://github.com/jbaek7023/MyFirstWebpage)
+- **p1** - [Mockup to Website](https://github.com/jbaek7023/MockupToWeb)
 - **p2** - [Interactive Resume](https://github.com/jbaek7023/Online-Resume)
 - **p3** - [Classic Arcade Game Clone](https://github.com/jbaek7023/ArcadeGame)
 - **p4** - [Website Optimization](https://github.com/jbaek7023/web-optimization)
