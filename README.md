@@ -2,6 +2,8 @@
 
 ![Certificate](certificate.jpg)
 
+### Co-Created By:
+
 ### About
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
 
@@ -22,11 +24,11 @@ This repository contains project work for Udacity's [Front-End Web Developer Nan
 
 ### Courses
 * Intro to HTML and CSS
-  * HTML Syntax
 - Responsive Webd Design Fundamentals
 - Responsive Images
 - JavaScript Basics
 - Intro to jQuery
+- Version Control with Git and GitHub
 - Object-Oriented JavaScript
 - HTML5 Canvas
 - Browser Rendering Optimization
