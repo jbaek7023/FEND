@@ -2,12 +2,12 @@
 
 ![Certificate](front-end.png)
 
-### About
+### About [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
 Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
 
 Learn the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
 
-[Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001)
+
 
 ### Projects:
 - **p1** - [Mockup to Website](https://github.com/jbaek7023/MockupToWeb)
